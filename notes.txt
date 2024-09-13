@@ -1,0 +1,33 @@
+project -> 
+		spring boot --> no jsp
+
+
+spring starter 
+
+ 	spring web
+ 	spring data jpa
+ 	mysql driver
+ 	lombok
+ 	devtools 
+
+ folder structure -> 
+ 		com -> controller 
+ 			   entity 
+ 			   repository 	
+
+ configuration -> 
+ 	database 
+ 	hibernate 
+
+
+--------------------------------------------------------------------- 	
+controller-> 
+	@Controller		vs @RestController 
+
+
+how to test your api? 
+
+	REST Client -> rest api calling -> 
+	---->POSTMAN 
+	---->swagger doc 
+
